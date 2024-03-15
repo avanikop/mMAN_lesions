@@ -1,0 +1,4 @@
+All sequencing data for the paper.
+  _REPR_ files = files with repeats replaced with capital letter (eg rrrr --> R)
+  Other files have only intro notes replaced with 'i'
+  Y is the "Start" symbol for every bout, not a syllable
